@@ -1,6 +1,6 @@
 # Age-and-Gender-Recognition
 Age and Gender Recognition Using Machine Learning
-#A Gender and Age Detection program by Mahesh Sawant
+#A Gender and Age Detection program by Murali Krishna
 
 import cv2
 import math
